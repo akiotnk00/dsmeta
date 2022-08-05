@@ -5,6 +5,7 @@ Link do APP: https://dsmeta-akio.netlify.app/
 
 Aulas ministradas por: @NelioAlves
 
+Sistema alimentado por API.
 Utilizando HTML, React.js, SQL, JPA, Java e enviado para a nuvem.
 
 
